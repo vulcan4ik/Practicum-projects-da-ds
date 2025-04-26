@@ -8,6 +8,9 @@
 ## Содержание
 | Название проекта | Описание | Используемые библиотеки | Сложность |
 | :---------------------- | :---------------------- | :---------------------- | :--------------------- |
-| [Статистика платежеспособности заёмщиков](https://github.com/vulcan4ik/Yandex-Practicum/blob/main/notebooks/1-project-debt-analysys-final.ipynb) | Проверка гипотез о влиянии количества детей, семейного положения, целей кредита и уровня доходов на факт погашения кредита в срок, а также посторение интерактивного дашборда | pandas, seaborn, matplotlib.pyplot, os | Низкая, 7 ч |
+
+
+| [Объявления о продаже квартир в Яндекс.Недвижимость](https://github.com/vulcan4ik/Yandex-Practicum/blob/main/notebooks/3-practicum-real-estate.ipynb) | Исследование объявление о продаже квартир в гор. Санкт-Петербург и близлежащих населённых пунктах | pandas, seaborn, matplotlib.pyplot, os, warnings, IPython.display | Средняя, 18 ч |
+| [Статистика платежеспособности заёмщиков](https://github.com/vulcan4ik/Yandex-Practicum/blob/main/notebooks/1-project-debt-analysys-final.ipynb) | Проверка гипотез о влиянии количества детей, семейного положения, целей кредита и уровня доходов на факт погашения кредита в срок, а также посторение интерактивного дашборда | pandas, seaborn, matplotlib.pyplot, os, tableau | Низкая, 7 ч |
 
 
